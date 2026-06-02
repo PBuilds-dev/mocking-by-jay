@@ -12,6 +12,9 @@ This project was based on a mock client request from [fakeclients.com](https://f
 - Responsive CSS
 - Google Fonts
 
+## Figma Design Mock Up
+- https://www.figma.com/design/fByaONXFwqzfdKgHpKc11t/Design-Playground?node-id=3403-74&t=cyW9tecjUvQVQVhp-1
+
 ## Disclaimer
 
 This project is a mockup/sample website created for educational and portfolio practice purposes only.
