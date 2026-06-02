@@ -4,6 +4,9 @@ Mocking by Jay is a simple music label landing page created as a practice projec
 
 This project was based on a mock client request from [fakeclients.com](https://fakeclients.com). It was built to practice translating a design concept into a responsive landing page layout with custom typography, CTA buttons, artist sections, hover effects, and visual styling.
 
+## Figma Design Mock Up
+- Page: https://pbuilds-dev.github.io/mocking-by-jay/
+
 ## Built With
 
 - HTML5
